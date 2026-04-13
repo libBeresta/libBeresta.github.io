@@ -2,6 +2,8 @@
 
 [libBeresta](https://github.com/libBeresta/libBeresta/) is a free, open-source, cross-platform library written in ANSI C for generating PDF files.
 
+[Русский](README.md) | [English](README_en.md)
+
 ![Beresta](beresta.png)
 
 The library allows you to create PDF documents without the need for an in-depth understanding of the internal structure of the Portable Document Format. 
