@@ -2,6 +2,8 @@
 
 [libBeresta](https://github.com/libBeresta/libBeresta/) — это свободная, открытая, кросс-платформенная библиотека на языке ANSI C для генерации PDF-файлов. 
 
+[Русский](README.md) | [English](README_en.md)
+
 ![Beresta](beresta.png)
 
 Библиотека позволяет создавать PDF-документы без необходимости глубокого понимания внутреннего устройства формата Portable Document Format. 
