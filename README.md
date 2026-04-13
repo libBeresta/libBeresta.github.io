@@ -21,4 +21,4 @@
 
 Важным элементом библиотеки является набор файлов данных для генерации языковых привязок (language binding), убирая трудоемкость ручного создания привязок к языкам, отличным от C.
 
-Репозиторий проекта https://github.com/libBeresta/libBeresta/
+Репозиторий проекта [https://github.com/libBeresta/libBeresta/](https://github.com/libBeresta/libBeresta/)
