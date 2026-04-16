@@ -20,3 +20,5 @@ The project is intended for developers who need a lightweight, cross-platform li
 An important feature of the library is a set of data files for generating language bindings, eliminating the labor-intensive process of manually creating bindings for languages other than C.
 
 Project repository: [https://github.com/libBeresta/libBeresta](https://github.com/libBeresta/libBeresta)
+
+[Generator coverage](STATS.md)
