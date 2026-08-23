@@ -4,6 +4,14 @@
 
 [Русский](README.md) | [English](README_en.md)
 
+## Новости проекта
+
+### `2026-08-20` Публикация Janet binding
+Опубликована языковая привязка [brst-binding-janet](https://github.com/libBeresta/brst-binding-janet) для языка Janet.
+
+[Все новости...](NEWS.md)
+
+
 ![Beresta](beresta.png)
 
 Библиотека позволяет создавать PDF-документы без необходимости глубокого понимания внутреннего устройства формата Portable Document Format. 
