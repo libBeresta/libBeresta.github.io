@@ -4,6 +4,12 @@
 
 [Русский](README.md) | [English](README_en.md)
 
+### `2026-08-20` Janet binding published
+
+The [brst-binding-janet](https://github.com/libBeresta/brst-binding-janet) language binding for the Janet programming language has been published.
+
+[All news...](NEWS_en.md)
+
 ![Beresta](beresta.png)
 
 The library allows you to create PDF documents without the need for an in-depth understanding of the internal structure of the Portable Document Format. 
