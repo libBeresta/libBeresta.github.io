@@ -18,6 +18,11 @@
 [v1.0.0](https://github.com/libBeresta/libBeresta/releases/tag/1.0.0) 
 библиотеки libBeresta.
 
+## `2026-05-28` Приз программы грантов Yandex Open Source × SourceCraft
+
+Проект libBeresta вошел в состав призеров [Программы грантов Yandex Open 
+Source × SourceCraft](https://opensource.yandex/grants/)!
+
 ## `2026-05-08` Пре-релиз 1.0.0
 
 Опубликован пре-релиз 
@@ -25,8 +30,3 @@
 библиотеки libBeresta.
 
 Внесено 26 PR.
-
-## `2026-05-08` Приз программы грантов Yandex Open Source × SourceCraft
-
-Проект libBeresta вошел в состав призеров [Программы грантов Yandex Open 
-Source × SourceCraft](https://opensource.yandex/grants/)!
