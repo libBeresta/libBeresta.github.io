@@ -1,5 +1,8 @@
 # libBeresta Project News
 
+## `2026-09-24` Windows build
+Windows build with MSVC changes merged to master.
+
 ## `2026-08-20` Janet binding published
 
 A language binding for the Janet programming language has been created.
