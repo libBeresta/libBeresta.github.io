@@ -5,7 +5,7 @@
 [Русский](README.md) | [English](README_en.md)
 
 ### `2026-09-24` Windows build
-Windows build with MSVC changes merged to master.
+Windows build with MSVC changes ([#69](https://github.com/libBeresta/libBeresta/pull/69)) merged to master.
 
 [All news...](NEWS_en.md)
 
