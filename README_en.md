@@ -4,9 +4,8 @@
 
 [Русский](README.md) | [English](README_en.md)
 
-### `2026-08-20` Janet binding published
-
-The [brst-binding-janet](https://github.com/libBeresta/brst-binding-janet) language binding for the Janet programming language has been published.
+### `2026-09-24` Windows build
+Windows build with MSVC changes merged to master.
 
 [All news...](NEWS_en.md)
 
