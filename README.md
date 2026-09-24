@@ -6,8 +6,8 @@
 
 ## Новости проекта
 
-### `2026-08-20` Публикация Janet binding
-Опубликована языковая привязка [brst-binding-janet](https://github.com/libBeresta/brst-binding-janet) для языка Janet.
+### `2026-09-24` Сборка под Windows
+В основную ветку влиты изменения, связанные со сборкой библиотеки на Windows с помощью MSVC.
 
 [Все новости...](NEWS.md)
 
