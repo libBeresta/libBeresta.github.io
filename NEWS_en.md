@@ -1,7 +1,7 @@
 # libBeresta Project News
 
 ## `2026-09-24` Windows build
-Windows build with MSVC changes merged to master.
+Windows build with MSVC changes ([#69](https://github.com/libBeresta/libBeresta/pull/69)) merged to master.
 
 ## `2026-08-20` Janet binding published
 
